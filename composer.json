@@ -1,0 +1,8 @@
+{
+    "name": "virakal/cli",
+    "description": "A small library for helping create UNIX PHP command line scripts",
+    "license": "GPL-3.0",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
